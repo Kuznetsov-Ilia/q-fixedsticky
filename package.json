@@ -11,8 +11,8 @@
     "deploy": "git add . && git commit -am 'fix' && git push && npm publish"
   },
   "dependencies": {
-    "q-global": "^1.0.0",
-    "q-utils": "^1.0.0",
+    "my-global": "^1.0.0",
+    "my-util": "^1.0.0",
     "deferred-promise": "^2.0.0"
   },
   "devDependencies": {
